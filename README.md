@@ -1,3 +1,4 @@
+``` shell
 flatten-calibre-library.sh
 
 Syntax: flatten-calibre-library.sh [-l|o|h]
@@ -7,3 +8,4 @@ h     Print this Help.
 o     Set output folder (Default: $HOME/Calibre Flattened Library)
 
 Leonardo Idone
+```
