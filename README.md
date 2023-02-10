@@ -1,3 +1,5 @@
+A clever hack to flatten all the files in a calibre library to a folder. 
+
 ``` shell
 flatten-calibre-library.sh
 
